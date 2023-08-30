@@ -3,7 +3,8 @@
 In this challenge we are required to classify species of plants (like the ones in the example image below), which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label. 
 
 ![00000](https://github.com/hdtemurtas/ArtificialNeuralNets-and-DeepLearning-Competition1/assets/114245127/9a3c6d3f-10fe-4119-9f43-4230c95812fe)
-
+![00002](https://github.com/hdtemurtas/ArtificialNeuralNets-and-DeepLearning-Competition1/assets/114245127/9c0a3280-4a5c-4aca-b4b8-25452c1b8e0d)
+![00003](https://github.com/hdtemurtas/ArtificialNeuralNets-and-DeepLearning-Competition1/assets/114245127/ae5aed4b-a0d2-427b-98bf-128fceaab9c1)
 
 Dataset Details: \
 Image size: 96x96 \
