@@ -2,6 +2,9 @@
 
 In this challenge we are required to classify species of plants (like the ones in the example image below), which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label. 
 
+![00000](https://github.com/hdtemurtas/ArtificialNeuralNets-and-DeepLearning-Competition1/assets/114245127/9a3c6d3f-10fe-4119-9f43-4230c95812fe)
+
+
 Dataset Details: \
 Image size: 96x96 \
 Color space: RGB (read as 'rgb' in ImageDataGenerator.flow_from_directory ('color_mode' attribute) or use PIL.Image.open('imgname.jpg').convert('RGB')) \
